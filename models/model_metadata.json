@@ -1,0 +1,6 @@
+{
+    "classification_model": "XGBoost",
+    "classification_f1_score": 0.6115007012622721,
+    "regression_model": "XGBoost",
+    "regression_rmse": 9.8437839062822
+}
