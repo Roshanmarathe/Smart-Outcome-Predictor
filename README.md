@@ -54,7 +54,7 @@
 
 <div align="center">
 
-### 👉 **[Launch the Streamlit App](https://message-intelligence-system-caoshnbr62mgxmuwxbsemm.streamlit.app/)** 👈
+### 👉 **[Launch the Streamlit App]([https://message-intelligence-system-caoshnbr62mgxmuwxbsemm.streamlit.app/](https://smart-outcome-predictor-hidmcg5sqek7vov3gcdrsc.streamlit.app/))** 👈
 
 `https://message-intelligence-system-caoshnbr62mgxmuwxbsemm.streamlit.app/`
 
