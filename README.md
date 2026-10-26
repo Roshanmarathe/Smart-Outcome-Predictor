@@ -8,8 +8,8 @@
 
 <br/>
 
-[![Live Demo](https://smart-outcome-predictor-hidmcg5sqek7vov3gcdrsc.streamlit.app/)
-[![Open in Streamlit](https://smart-outcome-predictor-hidmcg5sqek7vov3gcdrsc.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20DEMO-Open%20the%20App-FF4B4B?style=for-the-badge)](https://smart-outcome-predictor-hidmcg5sqek7vov3gcdrsc.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-outcome-predictor-hidmcg5sqek7vov3gcdrsc.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Pipelines-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -56,7 +56,7 @@
 
 ### 👉 **[Launch the Streamlit App](https://smart-outcome-predictor-hidmcg5sqek7vov3gcdrsc.streamlit.app/)** 👈
 
-`https://message-intelligence-system-caoshnbr62mgxmuwxbsemm.streamlit.app/`
+`https://smart-outcome-predictor-hidmcg5sqek7vov3gcdrsc.streamlit.app/`
 
 </div>
 
@@ -513,7 +513,7 @@ Streamlit prints a local address, normally **http://localhost:8501**.
 
 Inputs must match the original training feature columns. Never include `completion_status` or `final_score` as inputs.
 
-Prefer not to install anything? Use the **[hosted live app](https://message-intelligence-system-caoshnbr62mgxmuwxbsemm.streamlit.app/)**.
+Prefer not to install anything? Use the **[hosted live app](https://smart-outcome-predictor-hidmcg5sqek7vov3gcdrsc.streamlit.app/)**.
 
 ---
 
