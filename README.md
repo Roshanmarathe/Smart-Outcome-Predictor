@@ -9,7 +9,7 @@
 <br/>
 
 [![Live Demo](https://smart-outcome-predictor-hidmcg5sqek7vov3gcdrsc.streamlit.app/)
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://message-intelligence-system-caoshnbr62mgxmuwxbsemm.streamlit.app/)
+[![Open in Streamlit](https://smart-outcome-predictor-hidmcg5sqek7vov3gcdrsc.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Pipelines-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
